@@ -1,9 +1,3 @@
-//
-//  meloTTSUITestsLaunchTests.swift
-//  meloTTSUITests
-//
-//  Created by lyla on 8/27/25.
-//
 
 import XCTest
 

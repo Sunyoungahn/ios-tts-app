@@ -1,9 +1,3 @@
-//
-//  MeloTTSInferWrapper.swift
-//  meloTTS
-//
-//  Created by lyla on 8/28/25.
-//
 
 import Foundation
 

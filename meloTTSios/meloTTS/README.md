@@ -1,4 +1,4 @@
-# Millie Korean TTS iOS App
+# Korean TTS iOS App
 
 고품질 한국어 TTS(Text-to-Speech) iOS 애플리케이션으로, MeloTTS ONNX 모델을 활용한 실시간 음성 합성을 제공합니다.
 
@@ -142,10 +142,6 @@ models/
 ### 설치 방법
 
 1. **저장소 클론**:
-   ```bash
-   git clone https://github.com/bookclub-millie/millie-tts-ios.git
-   cd millie-tts-ios
-   ```
 
 2. **모델 파일 준비**:
    ```bash
@@ -218,26 +214,7 @@ static let transformRules: [String: String] = [
    - `verbose: true` 로 설정하여 로그 확인
    - 특정 단어의 처리 과정 추적
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 
-
-## 🤝 기여하기
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📞 지원
-
-- **Issues**: GitHub Issues를 통해 버그 리포트 및 기능 요청
-- **Wiki**: 상세한 API 문서는 Wiki 페이지 참조
-- **Examples**: `test_integration.swift`, `test_real_model.swift` 참조
-
 ---
 
-**Made with ❤️ by Millie Team**
 
 🤖 *Enhanced with [Claude Code](https://claude.ai/code)*

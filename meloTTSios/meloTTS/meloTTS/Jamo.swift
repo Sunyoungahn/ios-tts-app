@@ -1,10 +1,3 @@
-//
-//  Jamo.swift
-//  meloTTS
-//
-//  Created by lyla on 8/27/25.
-//
-
 import Foundation
 
 // MARK: - Korean Jamo Analysis and Conversion Library

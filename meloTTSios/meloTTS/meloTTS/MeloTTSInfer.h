@@ -1,9 +1,3 @@
-//
-//  MeloTTSInfer.h
-//  meloTTS
-//
-//  Created by lyla on 8/28/25.
-//
 
 #ifndef MeloTTSInfer_h
 #define MeloTTSInfer_h
